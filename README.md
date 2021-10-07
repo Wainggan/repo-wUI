@@ -3,10 +3,10 @@
 
 WIP
 
-It would work like this:
-First you make a module struct, which would contain a bunch of elements
-Then you make an element(can be a button, a slider, idc), and configure that element to your liking, then give that element to the module
-The module would deal with rendering the elements, and ask the elements if they are being selected and whatever
+It would work like this:<br/>
+First you make a module struct, which would contain a bunch of elements<br/>
+Then you make an element(can be a button, a slider, idc), and configure that element to your liking, then give that element to the module<br/>
+The module would deal with rendering the elements, and ask the elements if they are being selected and whatever<br/>
 
 
 Basically like this:
